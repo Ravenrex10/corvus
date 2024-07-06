@@ -57,6 +57,9 @@
         "game_types.h": "c",
         "platform.h": "c",
         "cmemory.h": "c",
-        "logger.h": "c"
+        "logger.h": "c",
+        "array": "cpp",
+        "format": "c",
+        "xiosbase": "c"
     }
 }
